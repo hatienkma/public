@@ -1,0 +1,2 @@
+https://fr2.rpmfind.net/linux/remi/enterprise/
+https://archives.fedoraproject.org/pub/archive/epel/6/i386/
