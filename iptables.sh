@@ -15,8 +15,6 @@ for iplist in $IP_LIST
 do
 iptables -A INPUT -s $iplist -p tcp --dport 80 -j ACCEPT
 iptables -A INPUT -s $iplist -p tcp --dport 443 -j ACCEPT
-iptables -A INPUT -s $iplist -p tcp --dport 8345 -j ACCEPT
-iptables -A INPUT -s $iplist -p tcp --dport 3306 -j ACCEPT
 done
 
 iptables -P INPUT DROP
