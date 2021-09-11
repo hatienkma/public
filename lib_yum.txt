@@ -1,0 +1,9 @@
+PHP Lib:
+
+php php-mysql php-gd php-xml php-dom php-simplexml php-xmlreader php-curl php-date php-exif php-filter php-ftp php-gd php-hash php-iconv php-json php-libxml php-pecl-imagick php-mbstring php-mysqlnd php-openssl php-pcre php-posix php-sockets php-spl php-tokenizer php-zlib
+ php-process php-cli php-common php-devel zlib zlib-devel php-pear php-soap php-xml php-xmlprc php-opcache php-xml php-mcrypt php-gd php-devel php-mysql php-intl php-mbstring fontconfig freetype freetype-devel fontconfig-devel libstdc++ php-intl php-pdo php-mysql 
+ 
+Lib: gcc g++ c++ zlib zlib-devel krb5-devel openssl-devel openssl libedit libedit-devel net-tools mod_ssl
+
+"Development Tools"
+
